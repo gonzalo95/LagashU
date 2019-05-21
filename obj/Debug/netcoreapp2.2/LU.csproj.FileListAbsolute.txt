@@ -1,0 +1,11 @@
+C:\Users\gonza\Desktop\LU\obj\Debug\netcoreapp2.2\LU.csprojAssemblyReference.cache
+C:\Users\gonza\Desktop\LU\obj\Debug\netcoreapp2.2\LU.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Desktop\LU\obj\Debug\netcoreapp2.2\LU.AssemblyInfoInputs.cache
+C:\Users\gonza\Desktop\LU\obj\Debug\netcoreapp2.2\LU.AssemblyInfo.cs
+C:\Users\gonza\Desktop\LU\bin\Debug\netcoreapp2.2\LU.deps.json
+C:\Users\gonza\Desktop\LU\bin\Debug\netcoreapp2.2\LU.runtimeconfig.json
+C:\Users\gonza\Desktop\LU\bin\Debug\netcoreapp2.2\LU.runtimeconfig.dev.json
+C:\Users\gonza\Desktop\LU\bin\Debug\netcoreapp2.2\LU.dll
+C:\Users\gonza\Desktop\LU\bin\Debug\netcoreapp2.2\LU.pdb
+C:\Users\gonza\Desktop\LU\obj\Debug\netcoreapp2.2\LU.dll
+C:\Users\gonza\Desktop\LU\obj\Debug\netcoreapp2.2\LU.pdb

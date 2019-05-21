@@ -1,0 +1,16 @@
+Tipos:
+*Lenguajes imperativos
+*Lenguajes funcionales
+*Lenguajes declarativos
+
+Pueden:
+*Modelo de memoria -> [programa | stack | heap]
+                   -> tipo de datos -> byte/int/long; double/float; boolean; char/string{UNICODE/ASCII/EBCDIC}; array
+*Hacer cuentas -> mover memoria
+*Enviar y recibir cosas (IO)
+
+Acciones:
+*dotnet new console -> Crea proyecto
+*code .
+*dotnet buil -> Compila
+*dotnet run -> Ejecuta
