@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\gonza\\Desktop\\LagashU\\Clase 1\\LU.csproj",
-      "projectName": "LU",
-      "projectPath": "c:\\Users\\gonza\\Desktop\\LagashU\\Clase 1\\LU.csproj",
+      "projectUniqueName": "C:\\Users\\gonza\\Desktop\\LagashU\\Homework clase 1\\Homework.csproj",
+      "projectName": "Homework",
+      "projectPath": "C:\\Users\\gonza\\Desktop\\LagashU\\Homework clase 1\\Homework.csproj",
       "packagesPath": "C:\\Users\\gonza\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\gonza\\Desktop\\LagashU\\Clase 1\\obj\\",
+      "outputPath": "C:\\Users\\gonza\\Desktop\\LagashU\\Homework clase 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

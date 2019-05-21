@@ -1,0 +1,33 @@
+C:\Users\gonza\Desktop\LagashU\Clase 1\Homework\obj\Debug\netcoreapp2.2\Homework.csprojAssemblyReference.cache
+C:\Users\gonza\Desktop\LagashU\Clase 1\Homework\obj\Debug\netcoreapp2.2\Homework.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Desktop\LagashU\Clase 1\Homework\obj\Debug\netcoreapp2.2\Homework.AssemblyInfoInputs.cache
+C:\Users\gonza\Desktop\LagashU\Clase 1\Homework\obj\Debug\netcoreapp2.2\Homework.AssemblyInfo.cs
+C:\Users\gonza\Desktop\LagashU\Clase 1\Homework\bin\Debug\netcoreapp2.2\Homework.deps.json
+C:\Users\gonza\Desktop\LagashU\Clase 1\Homework\bin\Debug\netcoreapp2.2\Homework.runtimeconfig.json
+C:\Users\gonza\Desktop\LagashU\Clase 1\Homework\bin\Debug\netcoreapp2.2\Homework.runtimeconfig.dev.json
+C:\Users\gonza\Desktop\LagashU\Clase 1\Homework\bin\Debug\netcoreapp2.2\Homework.dll
+C:\Users\gonza\Desktop\LagashU\Clase 1\Homework\bin\Debug\netcoreapp2.2\Homework.pdb
+C:\Users\gonza\Desktop\LagashU\Clase 1\Homework\obj\Debug\netcoreapp2.2\Homework.dll
+C:\Users\gonza\Desktop\LagashU\Clase 1\Homework\obj\Debug\netcoreapp2.2\Homework.pdb
+C:\Users\gonza\Desktop\LagashU\Homework\bin\Debug\netcoreapp2.2\Homework.deps.json
+C:\Users\gonza\Desktop\LagashU\Homework\bin\Debug\netcoreapp2.2\Homework.runtimeconfig.json
+C:\Users\gonza\Desktop\LagashU\Homework\bin\Debug\netcoreapp2.2\Homework.runtimeconfig.dev.json
+c:\Users\gonza\Desktop\LagashU\Homework\bin\Debug\netcoreapp2.2\Homework.dll
+c:\Users\gonza\Desktop\LagashU\Homework\bin\Debug\netcoreapp2.2\Homework.pdb
+c:\Users\gonza\Desktop\LagashU\Homework\obj\Debug\netcoreapp2.2\Homework.csprojAssemblyReference.cache
+c:\Users\gonza\Desktop\LagashU\Homework\obj\Debug\netcoreapp2.2\Homework.csproj.CoreCompileInputs.cache
+c:\Users\gonza\Desktop\LagashU\Homework\obj\Debug\netcoreapp2.2\Homework.AssemblyInfoInputs.cache
+c:\Users\gonza\Desktop\LagashU\Homework\obj\Debug\netcoreapp2.2\Homework.AssemblyInfo.cs
+c:\Users\gonza\Desktop\LagashU\Homework\obj\Debug\netcoreapp2.2\Homework.dll
+c:\Users\gonza\Desktop\LagashU\Homework\obj\Debug\netcoreapp2.2\Homework.pdb
+C:\Users\gonza\Desktop\LagashU\Homework clase 1\bin\Debug\netcoreapp2.2\Homework.deps.json
+C:\Users\gonza\Desktop\LagashU\Homework clase 1\bin\Debug\netcoreapp2.2\Homework.runtimeconfig.json
+C:\Users\gonza\Desktop\LagashU\Homework clase 1\bin\Debug\netcoreapp2.2\Homework.runtimeconfig.dev.json
+c:\Users\gonza\Desktop\LagashU\Homework clase 1\bin\Debug\netcoreapp2.2\Homework.dll
+c:\Users\gonza\Desktop\LagashU\Homework clase 1\bin\Debug\netcoreapp2.2\Homework.pdb
+c:\Users\gonza\Desktop\LagashU\Homework clase 1\obj\Debug\netcoreapp2.2\Homework.csprojAssemblyReference.cache
+c:\Users\gonza\Desktop\LagashU\Homework clase 1\obj\Debug\netcoreapp2.2\Homework.csproj.CoreCompileInputs.cache
+c:\Users\gonza\Desktop\LagashU\Homework clase 1\obj\Debug\netcoreapp2.2\Homework.AssemblyInfoInputs.cache
+c:\Users\gonza\Desktop\LagashU\Homework clase 1\obj\Debug\netcoreapp2.2\Homework.AssemblyInfo.cs
+c:\Users\gonza\Desktop\LagashU\Homework clase 1\obj\Debug\netcoreapp2.2\Homework.dll
+c:\Users\gonza\Desktop\LagashU\Homework clase 1\obj\Debug\netcoreapp2.2\Homework.pdb

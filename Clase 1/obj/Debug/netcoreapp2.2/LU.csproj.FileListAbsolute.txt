@@ -9,3 +9,14 @@ C:\Users\gonza\Desktop\LU\bin\Debug\netcoreapp2.2\LU.dll
 C:\Users\gonza\Desktop\LU\bin\Debug\netcoreapp2.2\LU.pdb
 C:\Users\gonza\Desktop\LU\obj\Debug\netcoreapp2.2\LU.dll
 C:\Users\gonza\Desktop\LU\obj\Debug\netcoreapp2.2\LU.pdb
+c:\Users\gonza\Desktop\LagashU\Clase 1\obj\Debug\netcoreapp2.2\LU.csprojAssemblyReference.cache
+c:\Users\gonza\Desktop\LagashU\Clase 1\obj\Debug\netcoreapp2.2\LU.csproj.CoreCompileInputs.cache
+c:\Users\gonza\Desktop\LagashU\Clase 1\obj\Debug\netcoreapp2.2\LU.AssemblyInfoInputs.cache
+c:\Users\gonza\Desktop\LagashU\Clase 1\obj\Debug\netcoreapp2.2\LU.AssemblyInfo.cs
+c:\Users\gonza\Desktop\LagashU\Clase 1\obj\Debug\netcoreapp2.2\LU.dll
+c:\Users\gonza\Desktop\LagashU\Clase 1\obj\Debug\netcoreapp2.2\LU.pdb
+C:\Users\gonza\Desktop\LagashU\Clase 1\bin\Debug\netcoreapp2.2\LU.deps.json
+C:\Users\gonza\Desktop\LagashU\Clase 1\bin\Debug\netcoreapp2.2\LU.runtimeconfig.json
+C:\Users\gonza\Desktop\LagashU\Clase 1\bin\Debug\netcoreapp2.2\LU.runtimeconfig.dev.json
+c:\Users\gonza\Desktop\LagashU\Clase 1\bin\Debug\netcoreapp2.2\LU.dll
+c:\Users\gonza\Desktop\LagashU\Clase 1\bin\Debug\netcoreapp2.2\LU.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gonza\\Desktop\\LagashU\\Clase 1\\LU.csproj": {}
+    "C:\\Users\\gonza\\Desktop\\LagashU\\Homework clase 1\\Homework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gonza\\Desktop\\LagashU\\Clase 1\\LU.csproj": {
+    "C:\\Users\\gonza\\Desktop\\LagashU\\Homework clase 1\\Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gonza\\Desktop\\LagashU\\Clase 1\\LU.csproj",
-        "projectName": "LU",
-        "projectPath": "C:\\Users\\gonza\\Desktop\\LagashU\\Clase 1\\LU.csproj",
+        "projectUniqueName": "C:\\Users\\gonza\\Desktop\\LagashU\\Homework clase 1\\Homework.csproj",
+        "projectName": "Homework",
+        "projectPath": "C:\\Users\\gonza\\Desktop\\LagashU\\Homework clase 1\\Homework.csproj",
         "packagesPath": "C:\\Users\\gonza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gonza\\Desktop\\LagashU\\Clase 1\\obj\\",
+        "outputPath": "C:\\Users\\gonza\\Desktop\\LagashU\\Homework clase 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
