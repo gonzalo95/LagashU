@@ -1,0 +1,11 @@
+C:\Users\gonza\Desktop\LagashU\Homework clase 2\bin\Debug\netcoreapp2.2\Homework clase 2.deps.json
+C:\Users\gonza\Desktop\LagashU\Homework clase 2\bin\Debug\netcoreapp2.2\Homework clase 2.runtimeconfig.json
+C:\Users\gonza\Desktop\LagashU\Homework clase 2\bin\Debug\netcoreapp2.2\Homework clase 2.runtimeconfig.dev.json
+c:\Users\gonza\Desktop\LagashU\Homework clase 2\bin\Debug\netcoreapp2.2\Homework clase 2.dll
+c:\Users\gonza\Desktop\LagashU\Homework clase 2\bin\Debug\netcoreapp2.2\Homework clase 2.pdb
+c:\Users\gonza\Desktop\LagashU\Homework clase 2\obj\Debug\netcoreapp2.2\Homework clase 2.csprojAssemblyReference.cache
+c:\Users\gonza\Desktop\LagashU\Homework clase 2\obj\Debug\netcoreapp2.2\Homework clase 2.csproj.CoreCompileInputs.cache
+c:\Users\gonza\Desktop\LagashU\Homework clase 2\obj\Debug\netcoreapp2.2\Homework clase 2.AssemblyInfoInputs.cache
+c:\Users\gonza\Desktop\LagashU\Homework clase 2\obj\Debug\netcoreapp2.2\Homework clase 2.AssemblyInfo.cs
+c:\Users\gonza\Desktop\LagashU\Homework clase 2\obj\Debug\netcoreapp2.2\Homework clase 2.dll
+c:\Users\gonza\Desktop\LagashU\Homework clase 2\obj\Debug\netcoreapp2.2\Homework clase 2.pdb
