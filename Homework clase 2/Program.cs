@@ -19,12 +19,12 @@ namespace Homework_clase_2
             Console.WriteLine("Recursiva");
             Console.WriteLine("Cociente: " + cociente + " Resto: " + resto);
         */
-        int cociente;
-        int decimales;
+            int cociente;
+            int decimales;
 
-        cociente = DividirConDecimales(10, 3, out decimales);
-        Console.WriteLine("10/3");
-        Console.WriteLine(cociente + "." + decimales);
+            cociente = DividirConDecimales(10, 3, out decimales);
+            Console.WriteLine("10/3");
+            Console.WriteLine(cociente + "." + decimales);
         }
 
         public static int Dividir(int dividendo, int divisor, out int resto)
