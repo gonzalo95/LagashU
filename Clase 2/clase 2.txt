@@ -1,10 +1,14 @@
 var -> Declara variables del tipo de la asignacion inicial. 
        NO es en si un tipo de dato. 
        Se debe asignar al declararla.
+
 Parametros opcionales -> Los defino en el encabezado de la funcion
+
 struct -> Agrupacion de datos bajo una misma entidad.
           Parecido a objetos.
+
 params -> Cambia la cantidad de parametros que recibe una funcion.
+
 out -> Referencia, puntero.
 
 
