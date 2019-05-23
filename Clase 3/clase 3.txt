@@ -1,0 +1,14 @@
+Mandar homework clase 2 a: diegog@lagash.com
+
+DocumentoLegal
+    EMpresa Emirsor
+    int Numero
+    Date fecha
+    Empresa cliente
+    direccion
+    items{}
+    subtotal
+    impuestos
+    total
+    cae
+    

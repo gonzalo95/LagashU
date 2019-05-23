@@ -23,6 +23,29 @@ namespace LU
                 Console.WriteLine("Impar");
             }
             Console.WriteLine("Monto: " + transferencia);
-        } 
+
+            var fc = new Factura(1);
+            var nc = new NotaDeCredito(1);
+            var nc2 = new NotaDeCredito(2);
+
+            nc.Imprimir();
+            nc2.Imprimir();
+
+            bool si = (fc is DocumentoLegal);
+            si = (fc is Factura);
+
+            HacerAlgoConDocumentos(nc);
+            HacerAlgoConDocumentos(fc);
+
+            var nnc = NotaDeCredito.LeerDeBaseDeDatos();
+
+            //NotaDeCredito ndc = null;
+            //ndc.imprimir();
+        }
+
+        static void HacerAlgoConDocumentos(DocumentoLegal dl)
+        {
+            dl.Imprimir();
+        }
     }
 }
