@@ -1,0 +1,11 @@
+C:\Users\gonza\Desktop\LagashU\Clase 4\bin\Debug\netcoreapp2.2\Clase 4.deps.json
+C:\Users\gonza\Desktop\LagashU\Clase 4\bin\Debug\netcoreapp2.2\Clase 4.runtimeconfig.json
+C:\Users\gonza\Desktop\LagashU\Clase 4\bin\Debug\netcoreapp2.2\Clase 4.runtimeconfig.dev.json
+c:\Users\gonza\Desktop\LagashU\Clase 4\bin\Debug\netcoreapp2.2\Clase 4.dll
+c:\Users\gonza\Desktop\LagashU\Clase 4\bin\Debug\netcoreapp2.2\Clase 4.pdb
+c:\Users\gonza\Desktop\LagashU\Clase 4\obj\Debug\netcoreapp2.2\Clase 4.csprojAssemblyReference.cache
+c:\Users\gonza\Desktop\LagashU\Clase 4\obj\Debug\netcoreapp2.2\Clase 4.csproj.CoreCompileInputs.cache
+c:\Users\gonza\Desktop\LagashU\Clase 4\obj\Debug\netcoreapp2.2\Clase 4.AssemblyInfoInputs.cache
+c:\Users\gonza\Desktop\LagashU\Clase 4\obj\Debug\netcoreapp2.2\Clase 4.AssemblyInfo.cs
+c:\Users\gonza\Desktop\LagashU\Clase 4\obj\Debug\netcoreapp2.2\Clase 4.dll
+c:\Users\gonza\Desktop\LagashU\Clase 4\obj\Debug\netcoreapp2.2\Clase 4.pdb

@@ -1,4 +1,5 @@
 using System;
+using LU;
 
 interface Imprimible
 {
@@ -15,6 +16,8 @@ abstract class DocumentoLegal : Imprimible, Grabable
     private int codEnBaseDeDatos;
 
     protected int fechaAlta;
+
+    public int Monto{get; set;}
 
 /*
     public DateTime Fecha
@@ -45,9 +48,38 @@ abstract class DocumentoLegal : Imprimible, Grabable
         this.Numero = numero;
     }
 
-    public virtual void Imprimir(){}
+    public virtual void Imprimir()
+    {
+        try
+        {
+            Grabar();
+        }
+        catch
+        {
+            Console.WriteLine("No se pudo grabar");
+            throw;
+        }
 
-    public void Grabar(){}
+        if (true /*NO HAY PAPEL */)
+        {
+            throw new NoHayPapel{Impresora = "Impresora 1"};
+        }
+
+        if (true /*NO HAY TINTA */)
+        {
+            throw new Exception();
+        }
+
+        if (true /*IMPRESORA APAGADA */)
+        {
+            throw new Exception();
+        }
+    }
+
+    public void Grabar()
+    {
+        throw new Exception();
+    }
 
     public void Enviar()
     {
@@ -62,5 +94,25 @@ abstract class DocumentoLegal : Imprimible, Grabable
     private void GuardarEnBaseDeDatos()
     {
         Console.WriteLine("DocumentoLegal.GuardarEnBaseDeDatos");
+    }
+}
+
+class Lista<Tipo> where Tipo : DocumentoLegal
+{
+    private Tipo[] lista;
+
+    public Lista(Tipo[] miLista)
+    {
+        this.lista = miLista;
+    }
+
+    public int Total()
+    {
+        int total = 0;
+        for(var i = 0; i < lista.Length; i++)
+        {
+            total += lista[i].Monto;
+        }
+        return total;
     }
 }

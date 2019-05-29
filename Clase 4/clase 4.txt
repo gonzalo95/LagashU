@@ -1,0 +1,14 @@
+*Herencia -> Se comparten propiedades y comportamiento
+*Encapsulamiento -> get y set
+*Abstraccion -> No me importa como lo haga si no el resultado(caja negra)
+*Interface -> Contrato que no se puede romper
+           -> No se heredan, se implementan
+           -> Solid
+*Package manager -> Nos permiten referenciar bibliotecas de otra gente
+                 -> En C# es Nuget
+*Dll -> Libreria dinamica
+*Solucion -> Organizacion de proyectos asociados
+*GAP -> Direcctiorio que maneja todos los ensamblados.
+     -> Global assembly cache
+*Using -> Incorporas un namespace, o sea, una parte del dll
+*Pbd -> Es lo que nos permite hacer debugging(Por ej. breakpoints)
