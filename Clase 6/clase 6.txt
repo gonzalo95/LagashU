@@ -1,0 +1,18 @@
+GIT
+*Control de versiones -> Maneja los cambios sobre los archivos(logs de modificaciones)
+*Caracteristicas -> Velocidad, diseño sencillo, desarrollo no lineal, distribuido, eficiente en grandes proyectos
+*Integridad -> Genera un checksum por cada cambios
+*Se puede subir codigo tanto al server como a una pc remota
+*git add -> --all o -A
+*git pull remote branch
+*git push -u origin master
+*git log
+*git clone -> git init + git add remote
+*git pull -> Trae los cambio al local
+*Untracked -> No se tiene seguimiento del archivo -> No va a entrar en el commit
+*Tracked -> Se tiene seguimiento del archivo -> Entra en el proximo commit(staging area)
+
+
+
+*Aws -> Alquiler de hosting
+*Ransonware -> Secuestro de datos
