@@ -1,0 +1,13 @@
+*using con una clase debe implementar IDisposable -> NO es un variable global si no que libera memoria
+*Linq -> Where -> Filtro resultados que no cumplan la condicion
+      -> Select -> Devuelve una lista con el campo requerido de todos los elementos
+      -> SingleOrDefault -> Chequea que solo haya un elemento que cumpla el predicado 
+      -> FirstOrDefault -> Devuelve el primer elemento o null
+      -> Any -> Devuelve un bool dependiendo de si algun elemento cumple el predicado
+*IEnumerable -> Interfaz que garatiza que sea iterable
+*DRY -> Don't repite yourself
+*KISS -> Keep it simple stupid
+*Borrar bin y obj del repositorio
+*CI (continued integration) -> Pushear a cada rato para tener siempre la ultima version subida
+*Pull request = merge request
+*Truck based development -> Branch cortos(2 o 3 dias) que luego se suman al trunk(master)
