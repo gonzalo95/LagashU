@@ -4,6 +4,7 @@
       -> SingleOrDefault -> Chequea que solo haya un elemento que cumpla el predicado 
       -> FirstOrDefault -> Devuelve el primer elemento o null
       -> Any -> Devuelve un bool dependiendo de si algun elemento cumple el predicado
+      -> Aggregate -> Como el reduce, aplica una funcion acumulativa a toda la coleccion
 *IEnumerable -> Interfaz que garatiza que sea iterable
 *DRY -> Don't repite yourself
 *KISS -> Keep it simple stupid
