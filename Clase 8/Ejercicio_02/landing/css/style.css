@@ -1,0 +1,159 @@
+@font-face{
+    src: url('../fonts/Poppins-Regular.ttf');
+    font-family: 'poppins-regular';
+}
+
+@font-face{
+    src: url('../fonts/Poppins-Bold.ttf');
+    font-family: 'poppins-bold';
+}
+
+footer {
+    background-color: #EFEFEF;
+    height: 200px;
+}
+
+h1 {
+    font-weight: bold;
+    color:#00174E;
+    font-family: poppins-bold;
+}
+
+h2 {
+    line-height: 40px;
+    font-size: 27px;
+    margin-bottom: 60px;
+    color:#00174E;
+    font-family: poppins-regular;
+}
+h5 {
+    font-weight: bold;
+    font-size: 20px;
+    color:#00174E;
+}
+
+p {
+    margin: 20px 0;
+    font-size: 17px;
+    color: #a6a6a6;
+    font-family: poppins-regular;
+}
+
+.container-header {
+    background-color: #00174E;
+    background-image: url(../img/banner.jpg);
+    background-size: contain;
+    background-position-y: 233px;
+    background-repeat: no-repeat;
+    height: 707px;
+    color: #fff;
+    padding-top: 70px;
+
+}
+
+.container-header h1 {
+    color:#FFF;
+}
+
+.container-header h2 {
+    color:#FFF;
+}
+
+.container-form {
+    background-color: rgb(239, 239, 239, 0.9);
+    padding: 50px 35px;
+    color:gray;
+}
+
+.container-form p {
+    font-size: 11px;
+    padding: 0;
+    line-height: 18px;
+    color: #c1c1c1;
+}
+
+.helpers_no_padding {
+    padding: 0;
+}
+
+.box {
+    text-align: center;
+}
+
+.helper_shadow {
+    -webkit-box-shadow: 0px 0px 63px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 63px -12px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 63px -12px rgba(0,0,0,0.75);
+}
+
+@media (max-width: 720px) {
+    .container-header { 
+        height: auto;
+        background-image: none;
+    }
+
+    h1 {
+        text-align: center;
+        padding: 20px 0;
+    }
+
+    h2 {
+        text-align: center;
+        font-size: 22px;
+        margin: 26px 0;
+    }
+
+    h5 {
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    img {
+        margin-bottom: 30px;
+    }
+}
+
+input
+{
+    width: 150px;
+    height: 30px;
+    border: #00174E solid;
+    font-size: 15px;
+    font-style: oblique;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+button
+{
+    width: 150px;
+    height: 50px;
+    background-color: #00174E;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+button:hover
+{
+    background-color: rgb(108, 121, 153);
+    cursor: pointer;
+}
+
+label
+{
+ color: black;
+ font-size: 18px;
+ font-weight: bold;
+ display: block;
+}
+
+form
+{
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    width: 200px;
+    height: 350px;
+}
